@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @rifolio
-- 👀 I’m interested in *nothing*
-- 🌱 I’m currently learning *nothing*
-- 💞️ I’m looking to collaborate on *nothing*
-- 📫 How to reach me *..... no*
+### Hi there 👋, I'm Vladyslav
+I'm begginer developer from Ukraine, i started to study in May of 2022, and here you can see my progress
 
-<!---
-rifolio/rifolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: HTML / CSS 
+
+- 🔭 I’m currently working on my first web sites 
+- 🌱 I’m currently learning HTML / CSS / Python 
