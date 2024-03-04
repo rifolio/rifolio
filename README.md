@@ -10,7 +10,7 @@ I'm a budding developer hailing from Ukraine, currently embarking on my educatio
 - HTML / CSS
 
 
-📘 **All my University projects and tasks can be found in thie repo: [RUC](https://github.com/rifolio/RUC)
+📘 **All my University projects and tasks can be found in thie repo:** [RUC](https://github.com/rifolio/RUC)
 
 Feel free to peruse the README to better understand the sctructure and dive into the wealth of projects I've contributed to.
 
