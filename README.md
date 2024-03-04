@@ -1,7 +1,17 @@
-### Hi there 👋, I'm Vladyslav
-I'm begginer developer from Ukraine, i started to study in May of 2022, and here you can see my progress
+### Welcome! 👋 I'm Vladyslav
 
-Skills: HTML / CSS 
+I'm a budding developer hailing from Ukraine, currently embarking on my educational journey at RUC since September 2022. This page serves as a hub to show how my skills evolve and showcase my projects that i work on.
 
-- 🔭 I’m currently working on my first web sites 
-- 🌱 I’m currently learning HTML / CSS / Python 
+🛠️ **Skills Snapshot:**
+- Java
+- Python
+- Pandas
+- Numpy
+- HTML / CSS
+
+
+📘 **All my University projects and tasks can be found in thie repo: [RUC](https://github.com/rifolio/RUC)
+
+Feel free to peruse the README to better understand the sctructure and dive into the wealth of projects I've contributed to.
+
+Don't hesitate to connect if you have any questions or recommendations! 😊
